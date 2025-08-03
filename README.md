@@ -50,11 +50,11 @@ The app is a minimal webshop concept with citrus products and a clean, responsiv
 1. Clone the repository in an IDE and run `index.html` from part 1, 2 or 3 in your browser:
 
    ```bash
-   git@github.com:AnneKluytmans/novi-homework-frontend-html-css-concept-opdracht.git
+   git@github.com:AnneKluytmans/novi-frontend-react-fruit-perfection.git
    ```
    or
    ```bash
-   git clone https://github.com/AnneKluytmans/novi-homework-frontend-html-css-concept-opdracht.git
+   git clone https://github.com/AnneKluytmans/novi-frontend-react-fruit-perfection.git
    ```
 
 2. Install dependencies
@@ -70,7 +70,7 @@ The app is a minimal webshop concept with citrus products and a clean, responsiv
 
 ## Credits
 
-> This assignment, visual designs and all design specifications were created and provided by **Novi University** as part of the Frontend module.
+> This assignment, visual designs and images were created and provided by **Novi University** as part of the Frontend module.
 
 ---
 
