@@ -1,8 +1,8 @@
 import './App.css'
-import { ReactComponent as ShoppingCart } from './assets/winkelmandje.svg';
-import citroenen from './assets/citroenen.jpeg';
-import limoenen from './assets/limoenen.png';
-import ijsblokjes from './assets/ijsblokjes.jpg';
+import { ReactComponent as ShoppingCart } from './assets/icons/winkelmandje.svg';
+import citroenen from './assets/fruit/citroenen.jpeg';
+import limoenen from './assets/fruit/limoenen.png';
+import ijsblokjes from './assets/fruit/ijsblokjes.jpg';
 import Product from "./components/Product.jsx";
 
 

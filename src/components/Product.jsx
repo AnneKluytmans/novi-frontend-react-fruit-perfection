@@ -1,4 +1,4 @@
-import citroenen from "../assets/citroenen.jpeg";
+import citroenen from "../assets/fruit/citroenen.jpeg";
 
 function Product(props) {
     return (
