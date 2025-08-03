@@ -47,15 +47,7 @@ The app is a minimal webshop concept with citrus products and a clean, responsiv
 
 ## Project Setup
 
-1. Clone the repository in an IDE and run `index.html` from part 1, 2 or 3 in your browser:
-
-   ```bash
-   git@github.com:AnneKluytmans/novi-frontend-react-fruit-perfection.git
-   ```
-   or
-   ```bash
-   git clone https://github.com/AnneKluytmans/novi-frontend-react-fruit-perfection.git
-   ```
+1. Clone the repository or open the project in an IDE.
 
 2. Install dependencies
    ```bash
